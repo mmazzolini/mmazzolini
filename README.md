@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmazzolini
 - 👀 I’m interested in geospatial coding!
-- 🌱 I’m currently working CNN adaptation to hydrological applications
+- 🌱 I’m currently working SNOWDEPTH from ICESat-2 data
 - 📫 write an email to mazzolini.marc@gmail.com
 
 <!---
