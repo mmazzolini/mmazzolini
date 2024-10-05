@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmazzolini
 - 👀 I’m interested in geospatial coding!
-- 🌱 I’m currently working SNOWDEPTH from ICESat-2 data
+- 🌱 I’m currently working on SNOWDEPTH retrievals from ICESat-2 data
 - 📫 write an email to mazzolini.marc@gmail.com
 
 <!---
